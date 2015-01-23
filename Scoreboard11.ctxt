@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Scoreboard11()
+comment0.text=\r\n\ Scoreboard11()\ places\ stat\ labels\ on\ the\ upper\ part\ of\ the\ panel.\r\n
+comment1.params=n
+comment1.target=void\ update(int)
+comment1.text=\r\n\ Updates\ the\ stat\ panel\ on\ the\ upper\ part\ of\ the\ panel.\r\n\ The\ update\ is\ dependant\ on\ the\ input\ of\ the\ .\r\n\ \r\n\ @param\ \ \ int\ \ \ \ \ integer\ value\ that\ allows\ the\ panel\ to\ update\ the\ "stones-taken"\ accordingly.\r\n
+numComments=2

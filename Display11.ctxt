@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=path\ description
+comment0.target=javax.swing.ImageIcon\ createImageIcon(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=Display11()
+comment1.text=\r\n\ Display11()\ constructs\ the\ display\ panel.\r\n
+comment2.params=x
+comment2.target=javax.swing.ImageIcon\ icon(int)
+comment2.text=\r\n\ receives\ instruction\ on\ what\ to\r\n\ \r\n\ @param\ \ \ x\ \ \ \ \ \ \ integer\ input\ that\ determines\ which\ icon\ to\ output.\r\n\ @return\ \ icon\ \ \ \ icon\ corresponding\ to\ the\ input,\ x.\r\n
+comment3.params=
+comment3.target=int\ one()
+comment3.text=\r\n\ "subtracts"\ one\ stone\ value\ from\ the\ existing\ image.\r\n\ \r\n\ @return\ \ value\ \ \ 1\ if\ possible,\ 0\ if\ not\r\n
+comment4.params=
+comment4.target=int\ two()
+comment4.text=\r\n\ "subtracts"\ two\ stones\ value\ from\ the\ existing\ image\r\n\ \r\n\ @return\ \ value\ \ \ 2\ if\ possible,\ 0\ if\ not\r\n
+comment5.params=
+comment5.target=int\ three()
+comment5.text=\r\n\ "subtracts"\ three\ stones\ value\ from\ the\ existing\ image\r\n\ \r\n\ @return\ \ value\ \ \ 3\ if\ possible,\ 0\ if\ not\r\n
+numComments=6
